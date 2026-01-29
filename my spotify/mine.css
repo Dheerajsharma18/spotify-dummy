@@ -1,0 +1,49 @@
+.navbar a{
+    text-decoration: none;
+    font-size: 50px;
+    color: green;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+input{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    border-color: black;
+    border-radius: 5px;
+    border-style: dotted;
+}
+a{
+    text-decoration: none;
+    color:  black;
+    font-size: large;
+    
+
+}
+h2{
+    text-align: center;
+}
+
+.navbar{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+.arijit{
+    display: flex;
+    align-items: center;
+}
+.dhun{
+    display: flex;
+    align-items: center;
+}
+.sitare{
+    display: flex;
+    align-items: center;
+}
+.Sukoon{
+    display: flex;
+    align-items: center;
+}
